@@ -1,5 +1,5 @@
 // 🛑 Remplace "TA_CLE_API" par ta propre clé OpenWeatherMap
-const API_KEY = "ade0ae9d41e3d11a1dfd086554bb02b7";
+const API_KEY = "TA_CLE_API";
 
 // Sélection des éléments HTML
 const searchButton = document.getElementById("search");
